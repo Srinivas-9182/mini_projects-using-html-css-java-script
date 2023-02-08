@@ -1,0 +1,28 @@
+#btn{
+    width:10vw;
+    height: 5vh;
+    border: 2px solid ;
+    border-radius: 5px;
+    color: white;
+    background-color: #3f1a1a;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, .5);
+}
+#box{
+    width: 40vw;
+    height: 40vh;
+    border: 2px solid gray;
+    border-radius: 10px ;
+    box-shadow: 2px 2px 4px rgba(5, 2, 0, .6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
